@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Rates form XML/Rates form XML.iml" filepath="$PROJECT_DIR$/Rates form XML/Rates form XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RatesFromJanso/RatesFromJanso.iml" filepath="$PROJECT_DIR$/RatesFromJanso/RatesFromJanso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Read NBP Rates to XML/Read NBP Rates to XML.iml" filepath="$PROJECT_DIR$/Read NBP Rates to XML/Read NBP Rates to XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Read NBP rates to JSON/Read NBP rates to JSON.iml" filepath="$PROJECT_DIR$/Read NBP rates to JSON/Read NBP rates to JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadRatesToXML/ReadRatesToXML.iml" filepath="$PROJECT_DIR$/ReadRatesToXML/ReadRatesToXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing Reading form xml/Testing Reading form xml.iml" filepath="$PROJECT_DIR$/Testing Reading form xml/Testing Reading form xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/URL download.iml" filepath="$PROJECT_DIR$/URL download.iml" />
     </modules>
   </component>
